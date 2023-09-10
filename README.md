@@ -21,3 +21,20 @@ This web application is built with Streamlit and powered by Scikit-Learn. It all
    ```bash
    git clone https://github.com/yourusername/iris-flower-prediction.git
    cd iris-flower-prediction
+
+Dependencies
+Streamlit: Streamlit Documentation
+Scikit-Learn: Scikit-Learn Documentation
+Usage
+Enter the sepal and petal measurements in the input fields.
+Click the "Predict" button to see the predicted Iris flower species.
+The app provides both the predicted species and a probability score for the prediction.
+Data Source
+The Iris flower dataset used for prediction is a classic dataset available in Scikit-Learn.
+
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+Special thanks to the Streamlit and Scikit-Learn communities for their valuable resources and support.
